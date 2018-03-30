@@ -12,7 +12,7 @@ data set is set to the features vector.
 The measuremenst on the mean and standard deviation for each measurement are extracted using select and the matches helper function. 
 
 #3
-A activity column was created to show the different activities performed for each observation and descriptive activity names were used to replace the integer-coded representation.
+An activity column was created to show the different activities performed for each observation and descriptive activity names were used to replace the integer-coded representation.
 
 #5
 A grouping of the data, based on activity, was done and the mean of each of the columns calculated using summarise_all and the mean function.
